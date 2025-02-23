@@ -1,0 +1,5 @@
+outs:
+- md5: a06259d2ccd325bf50f0f6219ee4affc
+  size: 23
+  hash: md5
+  path: Fourthdata.txt
