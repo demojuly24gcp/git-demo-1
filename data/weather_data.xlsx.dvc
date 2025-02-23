@@ -1,0 +1,5 @@
+outs:
+- md5: 51ce4d534d0e544fde0ab64e160a9839
+  size: 403621
+  hash: md5
+  path: weather_data.xlsx
